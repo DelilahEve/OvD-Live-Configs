@@ -1,28 +1,28 @@
 {
     "production": [
         {
-            "dinoType": "Blueprint'/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP'",
+            "dinoType": "/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP",
             "produces": [
                 {
                     "intervalSeconds": 240,
                     "alternateItemChance": 0.1,
                     "items": [
-                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon'"
+                        "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon"
                     ],
                     "alternateItems": [
-                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl'"
+                        "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl"
                     ]
                 }
             ]
         },
         {
-            "dinoType": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP'",
+            "dinoType": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP",
             "produces": [
                 {
                     "intervalSeconds": 60,
                     "alternateItemChance": 0.0,
                     "items": [
-                        "Blueprint'/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste'"
+                        "/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste"
                     ],
                     "alternateItems": []
                 },
@@ -30,7 +30,7 @@
                     "intervalSeconds": 3600,
                     "alternateItemChance": 0.0,
                     "items": [
-                        "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic'"
+                        "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic"
                     ],
                     "alternateItems": []
                 }
